@@ -1,2 +1,2 @@
 # Programaci-n-UEA-
-Aprender las bases de la programación. 
+semana 11: tarea de arreglos 
